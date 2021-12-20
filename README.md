@@ -1,4 +1,4 @@
-# Threejs basiscs
+# Threejs basiscs (from Fireship)
 
 ![Screenshot](./screenshot.png)
 

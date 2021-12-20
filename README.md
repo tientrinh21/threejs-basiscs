@@ -1,5 +1,7 @@
 # Threejs basiscs
 
+![Screenshot](./screenshot.png)
+
 Run the development server:
 
 ```bash
